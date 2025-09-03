@@ -1,4 +1,6 @@
 collect userdata 
 process data
 create an avatar for user
-login and logout 
+login and logout
+change1
+ 
