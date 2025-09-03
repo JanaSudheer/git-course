@@ -1,2 +1,3 @@
 collect userdata 
-process data 
+process data
+create an avatar for user 
